@@ -1,2 +1,2 @@
 # STEM_Project_2018
-This project is used in a STEM Expo investigation
+This project is used in a 2018 STEM Expo project investigation
